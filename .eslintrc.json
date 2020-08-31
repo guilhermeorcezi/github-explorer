@@ -23,13 +23,14 @@
         "sourceType": "module"
     },
     "plugins": [
+      "prettier",
       "react",
       "react-hooks",
-      "@typescript-eslint",
-      "prettier"
+      "@typescript-eslint"
     ],
     "rules": {
         "prettier/prettier": "error",
+        "react/jsx-one-expression-per-line":"off",
         "arrow-parens":"off",
         "camelcase": "off",
         "react-hooks/rules-of-hooks": "error",
