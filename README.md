@@ -3,7 +3,7 @@
     <img alt="Github Explorer" width="900" title="#logo" src="./github_assets/banner.png">
     <br>
 </h3>
-<p align="center"> 🚀 Github Explorer: Application to search Github repositories from the public Github API, listing their issues and showing the number of stars and forks.
+<p align="initial"> 🚀 <strong> Github Explorer:</strong> Application to search Github repositories from the public Github API, listing their issues and showing the number of stars and forks.
  </p>
  
 # :pushpin: Table of Contents
