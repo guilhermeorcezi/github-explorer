@@ -21,7 +21,8 @@ The project was developed using the following technologies
 ### :exclamation: React Application
 To start the aplication clone this repository and use the commands:
 ```bash
-yarn start// npm start
+yarn install // npm install
+yarn start // npm start
 ```
 ---
 
